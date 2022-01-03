@@ -1,2 +1,2 @@
-# start
-To be programmer my first exercise note
+# AI Team project
+# I.P.D(Illegal Parking Distinguish)
